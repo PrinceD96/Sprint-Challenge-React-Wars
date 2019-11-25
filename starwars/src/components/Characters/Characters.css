@@ -1,0 +1,24 @@
+.char__card{
+  text-align: left;
+ }
+
+.char__card button {
+  width: 100%;
+}
+
+.col{
+  margin: 20px auto;
+}
+
+.btn__container {
+  /* border: 1px solid rebeccapurple; */
+  width: 220px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.btn__container button{
+  width: 100px;
+}
